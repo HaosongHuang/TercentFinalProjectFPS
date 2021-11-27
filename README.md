@@ -43,4 +43,4 @@ Mac包和演示视频：https://share.weiyun.com/3RLj7jxH 因为做的比较晚�
 - 记分板名字记录不正确，怀疑game state里面有错误修改
 - 结束返回时因为时间不足，没有按照正确方式实现退出session
 
-演示视频： https://share.weiyun.com/zPd6F0LE ，做得晚没有打包，录制的虚幻引擎内演示。
+演示视频： https://share.weiyun.com/zPd6F0LE ，做得晚没有打包，录制的虚幻引擎内演示。周天上课的时候估计可以加入打包内容
